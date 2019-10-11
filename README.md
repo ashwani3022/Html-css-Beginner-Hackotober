@@ -1,1 +1,2 @@
-# Html-css-Beginner-I am working on my blog ,Getting some problem in adding the img in the page ,pls help me if you can
+# Html-css-Beginner-I am working on my blog ,You Can give your contribution,Let's get started with open source
+#hackotober
