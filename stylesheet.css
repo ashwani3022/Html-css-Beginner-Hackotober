@@ -3,7 +3,8 @@ body {
 }
 
 li {
-  list-style: none;
+  list-style:none ;
+color:#FF3333;
 }
 
 .header {
@@ -22,7 +23,10 @@ li {
   float: left;
   padding: 33px 20px;
 }
-
+.a
+{
+color:#FF3333;
+}
 .main {
   padding: 100px 80px;
 }
@@ -37,21 +41,12 @@ color: #0000FF;
 color: #ff4a4a;
 }
 
-.copy-container span {
-  
-}
 
 .contents {
   height: 500px;
   margin-top: 100px;
 }
 
-.section-title {
-  border-bottom: 2px solid #dee7ec;
-  font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 50px;
-}
 
 .contents-item {
   float: left;
@@ -77,29 +72,23 @@ input, textarea {
        border: 1px solid #dee7ec;            
                               }
 
-/* Add CSS for contact-submit */
-.contact-submit {            
-                                background-color: #dee7ec;            
-                              color: #889eab;            
-                             }
+
 
 .footer {
-  background-color: #2f5167;
-  color: #fff;
-  height: 400px;
+  background-color:  #E1E30E ;
+  color: #FF3333;
+  height: 300px;
   padding: 40px;
 }
 
-.footer-logo {
-  float: left;
-  font-size: 32px;
-}
+
 
 .footer-list {
-  float: right;
+  float: left;
+color: #FF3333;
 }
 
 .footer-list li {
   padding-bottom: 20px;
+color: #FF3333 ;
 }
-https://www.w3schools.com/images/w3schools_green.jpg
